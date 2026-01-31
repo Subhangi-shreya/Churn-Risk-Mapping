@@ -19,6 +19,14 @@ This project analyzes customer churn patterns using telecom service data. The go
 - Monthly Charges vs Churn (Boxplot)
 
 ---
+## Power BI Dashboard
+
+This project includes an interactive Power BI dashboard with 2 pages:
+
+Churn Overview: KPIs and churn distribution
+
+Churn Drivers: Key churn drivers such as contract, tenure, charges, and services
+---
 
 ##  Executive Summary
 
